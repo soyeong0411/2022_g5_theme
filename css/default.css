@@ -139,7 +139,7 @@ border:1px solid #558ab7 !important;
 }
 #container_title {
   font-size:1.333em;margin:0 auto;font-weight:bold;
-  height: 100px;background: pink;display: flex;justify-content: center;
+  height: 50px;display: flex;justify-content: center;
   align-items: center;
 }
 #container_title span {margin:0 auto 10px;display:block;line-height:30px}
